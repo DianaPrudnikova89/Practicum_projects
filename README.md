@@ -52,4 +52,4 @@
 |------------------|----------|------|
 | [Анализ вакансий аналитиков](https://github.com/DianaPrudnikova89/Practicum_projects/tree/main/Analysis_of_analyst_vacancies_hh.ru) | Исследование рынка труда для аналитиков данных и системных аналитиков по данным hh.ru | PostgreSQL, DBeaver |
 | [Доноры и донации](https://github.com/DianaPrudnikova89/Practicum_projects/tree/main/Donor) | Анализ активности доноров крови и эффективности мотивационных программ | PostgreSQL, DBeaver |  
-| [Анализ туристической отрасли в России]() | Исследование динамики развития туризма в России (2018-2023), с проверкой статистических гипотез. Анализ средств размещения, турпакетов и региональных особенностей |python, pandas, numpy, scipy.stats, matplotlib| 
+| [Анализ туристической отрасли в России](https://github.com/DianaPrudnikova89/Practicum_projects/tree/main/EDA_hypothesis_testing) | Исследование динамики развития туризма в России (2018-2023), с проверкой статистических гипотез. Анализ средств размещения, турпакетов и региональных особенностей |python, pandas, numpy, scipy.stats, matplotlib| 
