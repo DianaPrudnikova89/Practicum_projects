@@ -71,4 +71,4 @@
 |------------------|----------|------|
 | [Анализ вакансий аналитиков](https://github.com/DianaPrudnikova89/Practicum_projects/tree/main/Analysis_of_analyst_vacancies_hh.ru) | Исследование рынка труда для аналитиков данных и системных аналитиков по данным hh.ru | PostgreSQL, , DBeaver |
 | [Доноры и донации](https://github.com/DianaPrudnikova89/Practicum_projects/tree/main/Donor) | Анализ активности доноров крови и эффективности мотивационных программ | PostgreSQL, DBeaver |  
-| []() |  |  | 
+| [Анализ туристической отрасли в России]() |  |python, pandas, numpy, scipy.stats, matplotlib| 
